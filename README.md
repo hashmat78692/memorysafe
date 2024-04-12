@@ -1,0 +1,2 @@
+# memorysafe
+basic javascript application
